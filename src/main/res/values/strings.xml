@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E-notes</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="note">Note</string>
+    <string name="email">Email</string>
+    <string name="motdepasse">Mot De Passe</string>
+</resources>
